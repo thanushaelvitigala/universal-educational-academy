@@ -42,7 +42,7 @@ const Courses = () => {
 
   return (
     <section className="px-6 py-10">
-      <h2 className="text-3xl font-bold text-blue-700 mb-6 text-center">
+      <h2 className="text-3xl font-bold text-purple-700 mb-6 text-center">
         Our Academic Programs
       </h2>
 
