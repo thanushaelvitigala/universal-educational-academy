@@ -8,30 +8,32 @@ const Courses = () => {
 
   const courses = [
     {
-      title: "Foundation",
+      title: "Special Spoken",
       description:
-        "Bridges the gap between school and university, focusing on language, math, and subject-specific skills.",
+        "This “Special Spoken” course is crafted for learners who want to quickly enhance their spoken English-skills, focusing on real-life communication and confidence-building in everyday and professional contexts. Over 4 months, the program equips you with practical listening, speaking, pronunciation and fluency techniques in interactive classes. With a registration fee of Rs. 10,000 and a course fee of Rs. 40,000, you’ll receive dedicated instruction and training designed to open new opportunities in global communication.",
       image:
-        "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1596495577886-ea21ea4b87de?auto=format&fit=crop&w=800&q=80",
     },
     {
-      title: "Full Bachelor (3 Years)",
+      title: "School Student (O/L & A/L)",
       description:
-        "Comprehensive three-year degree combining theory and practical learning.",
-      //   image: bachelor,
+        "Designed especially for students preparing for O/L and A/L examinations, this 4-month program focuses on strengthening English language foundations—reading, writing, grammar, vocabulary and spoken skills—to support academic success and university-readiness. For Rs. 50,000, participants will engage in structured lessons tailored to school timelines, gain targeted support for exam skills, and build the confidence to perform well in both internal assessments and external examination settings.",
+      image:
+        "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=800&q=80",
     },
     {
-      title: "Bachelor Top-Up",
+      title: "Government Campus Student",
       description:
-        "A one-year program for diploma or foundation holders to earn a full bachelor's degree.",
+        "This program is ideal for students studying in government campuses who wish to upgrade their English proficiency alongside campus coursework. Priced at Rs. 30,000 with a registration fee of Rs. 10,000, the course offers practical language training that complements your academic studies. Over the program, students will improve listening and speaking fluency, build strong writing skills, and develop the English abilities needed for campus presentations, assignments and career-readiness in a supportive learning environment.",
       image:
         "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=800&q=80",
     },
     {
-      title: "Masters",
+      title: "IELTS",
       description:
-        "A postgraduate degree offering in-depth specialization, research, and leadership skills.",
-      //   image: manJumping,
+        "Our IELTS preparation course is a focused, 2-month intensive program designed to prepare you for the IELTS (International English Language Testing System) exam—aimed at individuals seeking higher education or migration abroad. For a course fee of Rs. 45,000 plus a registration fee of Rs. 10,000, you’ll engage in rigorous practice of all four modules (Listening, Reading, Writing, Speaking), experience mock tests, receive one-on-one feedback, and adopt test-strategies to maximize your band score and unlock global opportunities.",
+      image:
+        "https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?auto=format&fit=crop&w=800&q=80",
     },
   ];
 
