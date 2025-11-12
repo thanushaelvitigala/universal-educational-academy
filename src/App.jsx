@@ -16,7 +16,7 @@ function App() {
         <Route path="/fees" element={<Fees />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
-      <footer className="text-center py-6 mt-16 text-gray-500 text-sm border-t">
+      <footer className="text-center py-6 bg-black mt-16 text-gray-200 text-sm border-t">
         © {new Date().getFullYear()} Universe MD (Pvt) Ltd. All Rights Reserved.
       </footer>
     </Router>

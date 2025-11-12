@@ -2,7 +2,7 @@ import React from "react";
 
 const Fees = () => {
   return (
-    <section className="px-6 py-10 max-w-5xl mx-auto">
+    <section className="px-6 py-18  bg-black ">
       <h2 className="text-3xl font-bold text-purple-700 text-center mb-8">
         Course Fees & Duration
       </h2>
